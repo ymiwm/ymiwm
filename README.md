@@ -1,7 +1,10 @@
-### Hi there 👋
 
 <!--
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 **ymiwm/ymiwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
