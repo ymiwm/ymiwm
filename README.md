@@ -1,7 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&section=header&reversal=false&height=300&text=No%20Error,%20No%20Gain&textBg=false&animation=false&fontColor=ffffff&fontSize=90&fontAlign=50&fontAlignY=50&rotate=0)
 
 <!--
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
 **ymiwm/ymiwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋
