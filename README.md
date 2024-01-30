@@ -1,5 +1,7 @@
+Welcome!
+<!--
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&section=header&reversal=false&height=300&text=No%20Error,%20No%20Gain&textBg=false&animation=false&fontColor=ffffff&fontSize=90&fontAlign=50&fontAlignY=50&rotate=0)
-
+-->
 <!--
 https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white
 https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white
