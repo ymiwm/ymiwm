@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Done%20Is%20Better%20Than%20Perfect&fontColor=111111&fontAlignY=40&animation=twinkling&stroke=00FF00&strokeWidth=2&desc=ReThinkIn&descSize=30&fontSize=60)
 
 |Badge|Tech|Level|
-|:-----:|:-----:|:-----:|  |:-----:|:-----:|:-----:|
+|:-----:|:-----:|:-----:|
 |![Clang-badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)|C|2-Novice|
 |![C++-badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)|C++|2-Novice|
 |![Python-badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)|Python|3-Intermediate|
