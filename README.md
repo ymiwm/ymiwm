@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Done%20Is%20Better%20Than%20Perfect&fontColor=111111&fontAlignY=40&animation=twinkling&stroke=00FF00&strokeWidth=2&desc=ReThinkIn&descSize=30&fontSize=60)
 
+<table>
+  <tr>
+    <th>Tech Stack1</th>
+    <th>Tech Stack2</th>
+  </tr>
+  <tr>
+    <td>
+
 |Badge|Tech|Level|
 |:-----:|:-----:|:-----:|
 |![Clang-badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)|C|2-Novice|
@@ -10,12 +18,22 @@
 |![AWS-badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)|AWS|2-Novice|
 |![WireShark-badge](https://img.shields.io/badge/WireShark-1679A7?style=for-the-badge&logo=WireShark&logoColor=white)|WireShark|2-Novice|
 |![BurpSuite-badge](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white)|Burp Suite|2-Novice|
+
+</td>
+<td>
+  
+|Badge|Tech|Level|
+|:-----:|:-----:|:-----:|
 |![KaliLinux-badge](https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)|Kali Linux|2-Novice|
 |![Windows-badge](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)|Windows|3-Intermediate|
 |![Linux-badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)|Linux|2-Novice|
 |![MacOS-badge](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white)|Mac OS|2-Novice|
 |![Android-badge](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white)|Android|1-Fundamental|
 |![VisualStudioCode-badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)|VSCode|3-Intermediate|
+      
+</td>
+</tr>
+</table>
 
 <!--
 NA - Not Applicable.
