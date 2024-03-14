@@ -15,12 +15,9 @@
 |![WireShark-badge](https://img.shields.io/badge/WireShark-1679A7?style=for-the-badge&logo=WireShark&logoColor=white)|WireShark|2-Novice|
 |![BurpSuite-badge](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white)|Burp Suite|2-Novice|
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=ymiwm&show_icons=true&include_all_commits=true&hide_border=true" alt="ReThinkIn's github stats"/>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymiwm&layout=compact&hide_border=true"/>|
+|![ReThinkIn's github stats](https://github-readme-stats.vercel.app/api?username=ymiwm&show_icons=true&include_all_commits=true&hide_border=true)|![ReThinkIn's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymiwm&layout=compact&hide_border=true)|
 |----------------|----------------|
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lmistd0322)](https://solved.ac/lmistd0322)
-[![ReThinkIn's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ymiwm)](https://wakatime.com/@ymiwm)
-
+|[![ReThinkIn's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ymiwm&hide_border=true)](https://wakatime.com/@ymiwm)|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lmistd0322)](https://solved.ac/lmistd0322)|
 
 </div>
 
