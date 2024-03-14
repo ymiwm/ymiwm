@@ -1,4 +1,8 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Done%20Is%20Better%20Than%20Perfect&fontColor=111111&fontAlignY=40&animation=twinkling&stroke=00FF00&strokeWidth=2&desc=ReThinkIn&descSize=30&fontSize=60)
+
+[![Hits](https://hits.sh/github.com/ymiwm.svg?view=today-total&style=for-the-badge&logo=github)](https://hits.sh/github.com/ymiwm/)
 
 <table>
   <tr>
@@ -34,6 +38,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 <!--
 NA - Not Applicable.
