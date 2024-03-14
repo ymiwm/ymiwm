@@ -4,40 +4,23 @@
 
 [![Hits](https://hits.sh/github.com/ymiwm.svg?view=today-total&style=for-the-badge&logo=github)](https://hits.sh/github.com/ymiwm/)
 
-<table>
-  <tr>
-    <th>Tech Stack1</th>
-    <th>Tech Stack2</th>
-  </tr>
-  <tr>
-    <td>
-
-|Badge|Tech|Level|
-|:-----:|:-----:|:-----:|
-|![Clang-badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)|C|2-Novice|
-|![C++-badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)|C++|2-Novice|
-|![Python-badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)|Python|3-Intermediate|
-|![MySQL-badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)|MySQL|2-Novice|
-|![Docker-badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)|Docker|1-Fundamental|
-|![AWS-badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)|AWS|2-Novice|
+|Badge|Tech|Level|Badge|Tech|Level|
+|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+|![Clang-badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)|C|2-Novice|![KaliLinux-badge](https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)|Kali Linux|2-Novice|
+|![C++-badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)|C++|2-Novice|![Windows-badge](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)|Windows|3-Intermediate|
+|![Python-badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)|Python|3-Intermediate|![Linux-badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)|Linux|2-Novice|
+|![MySQL-badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)|MySQL|2-Novice|![MacOS-badge](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white)|Mac OS|2-Novice|
+|![Docker-badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)|Docker|1-Fundamental|![Android-badge](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white)|Android|1-Fundamental|
+|![AWS-badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)|AWS|2-Novice|![VisualStudioCode-badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)|VSCode|3-Intermediate|
 |![WireShark-badge](https://img.shields.io/badge/WireShark-1679A7?style=for-the-badge&logo=WireShark&logoColor=white)|WireShark|2-Novice|
 |![BurpSuite-badge](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white)|Burp Suite|2-Novice|
 
-</td>
-<td>
-  
-|Badge|Tech|Level|
-|:-----:|:-----:|:-----:|
-|![KaliLinux-badge](https://img.shields.io/badge/KaliLinux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)|Kali Linux|2-Novice|
-|![Windows-badge](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)|Windows|3-Intermediate|
-|![Linux-badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)|Linux|2-Novice|
-|![MacOS-badge](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white)|Mac OS|2-Novice|
-|![Android-badge](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white)|Android|1-Fundamental|
-|![VisualStudioCode-badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)|VSCode|3-Intermediate|
-      
-</td>
-</tr>
-</table>
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=ymiwm&show_icons=true&include_all_commits=true&hide_border=true" alt="ReThinkIn's github stats"/>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymiwm&layout=compact&hide_border=true"/>|
+|----------------|----------------|
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lmistd0322)](https://solved.ac/lmistd0322)
+[![ReThinkIn's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ymiwm)](https://wakatime.com/@ymiwm)
+
 
 </div>
 
