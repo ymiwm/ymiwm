@@ -12,6 +12,7 @@
 |![MySQL-badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)|MySQL|2-Novice|![MacOS-badge](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white)|Mac OS|2-Novice|
 |![Docker-badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)|Docker|1-Fundamental|![Android-badge](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white)|Android|1-Fundamental|
 |![AWS-badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)|AWS|2-Novice|![VisualStudioCode-badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)|VSCode|3-Intermediate|
+|![OWASP-badge](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white)|WireShark|2-Novice|
 |![WireShark-badge](https://img.shields.io/badge/WireShark-1679A7?style=for-the-badge&logo=WireShark&logoColor=white)|WireShark|2-Novice|
 |![BurpSuite-badge](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white)|Burp Suite|2-Novice|
 
